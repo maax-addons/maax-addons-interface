@@ -1,1 +1,18 @@
-{{news.title}}
+[
+    {
+        "id": "1",
+        "title": "Test News",
+        "preview": "Erste Test News...",
+        "text": "Ist halt die erste Test News der API... \r\n",
+        "date": "01-00-00-00",
+        "img": "non"
+    },
+    {
+        "id": "2",
+        "title": "Test News",
+        "preview": "Erste Test News...",
+        "text": "Ist halt die erste Test News der API... \r\n",
+        "date": "00-00-00-00",
+        "img": "non"
+    }
+]
