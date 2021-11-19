@@ -1,18 +1,42 @@
 [
     {
         "id": "1",
-        "title": "Test News",
-        "preview": "Erste Test News...",
-        "text": "Ist halt die erste Test News der API... \r\n",
+        "name": "SAM - Admin System",
+        "description": "Erste Test News...",
+        "price": "10",
         "date": "01-00-00-00",
         "img": "non"
     },
     {
         "id": "2",
-        "title": "Test News",
-        "preview": "Erste Test News...",
-        "text": "Ist halt die erste Test News der API... \r\n",
-        "date": "00-00-00-00",
+        "name": "StarWarsRP - Gamemode",
+        "description": "Erste Test News...",
+        "price": "1000",
+        "date": "01-00-00-00",
         "img": "non"
-    }
+    },
+        {
+        "id": "3",
+        "name": "StarWarsRP - Gamemode",
+        "description": "Erste Test News...",
+        "price": "1000",
+        "date": "01-00-00-00",
+        "img": "non"
+    },
+    {
+        "id": "4",
+        "name": "StarWarsRP - Gamemode",
+        "description": "Erste Test News...",
+        "price": "1000",
+        "date": "01-00-00-00",
+        "img": "non"
+    },
+    {
+        "id": "5",
+        "name": "StarWarsRP - Gamemode",
+        "description": "Erste Test News...",
+        "price": "1000",
+        "date": "01-00-00-00",
+        "img": "non"
+    },
 ]
